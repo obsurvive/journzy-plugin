@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "journzy": {
+      "type": "http",
+      "url": "https://write.journzy.com/mcp"
+    }
+  }
+}

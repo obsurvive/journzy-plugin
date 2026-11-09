@@ -1,0 +1,5 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Journzy mark">
+  <rect width="64" height="64" rx="14" fill="#1A1918"></rect>
+  <rect x="0.5" y="0.5" width="63" height="63" rx="13.5" stroke="#3D3C3A"></rect>
+  <path d="M35.84 0H47.36V39.68A16 16 0 0 1 31.36 55.68H17.28L22.4 49.92L17.28 44.16H31.36A4.48 4.48 0 0 0 35.84 39.68Z" fill="#C98520"></path>
+</svg>

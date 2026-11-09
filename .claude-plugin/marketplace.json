@@ -1,0 +1,16 @@
+{
+  "name": "journzy",
+  "owner": {
+    "name": "Obsurvive",
+    "url": "https://journzy.com"
+  },
+  "description": "The Journzy plugin: read-only help with your Journzy books.",
+  "plugins": [
+    {
+      "name": "journzy",
+      "source": "./plugins/journzy",
+      "description": "Read your Journzy books and story bible: continuity, characters, timeline, revision notes and writing checks. Read-only.",
+      "category": "productivity"
+    }
+  ]
+}

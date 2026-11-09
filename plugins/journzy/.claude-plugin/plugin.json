@@ -1,0 +1,18 @@
+{
+  "name": "journzy",
+  "displayName": "Journzy",
+  "version": "0.1.0",
+  "description": "Read your Journzy books and story bible: find continuity slips, recall characters, check the timeline, prepare a revision pass and run Journzy's writing checks. Read-only: only you change your text.",
+  "author": {
+    "name": "Obsurvive, Inc.",
+    "url": "https://journzy.com"
+  },
+  "homepage": "https://journzy.com/en",
+  "repository": "https://github.com/obsurvive/journzy-plugin",
+  "license": "Apache-2.0",
+  "keywords": ["writing", "novel", "fiction", "manuscript", "story-bible", "continuity", "editing"],
+  "icon": "./assets/logo.png",
+  "supportUrl": "https://journzy.com/en/about",
+  "privacyPolicyUrl": "https://journzy.com/en/privacy",
+  "termsOfServiceUrl": "https://journzy.com/en/terms"
+}
