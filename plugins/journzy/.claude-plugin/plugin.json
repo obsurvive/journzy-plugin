@@ -1,7 +1,7 @@
 {
   "name": "journzy",
   "displayName": "Journzy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Read your Journzy books and story bible: find continuity slips, recall characters, check the timeline, prepare a revision pass and run Journzy's writing checks. Read-only: only you change your text.",
   "author": {
     "name": "Obsurvive, Inc.",
